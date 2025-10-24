@@ -36,7 +36,7 @@ https://ted-x-nitk-cinishines-projects.vercel.app/
 
 # iris-dashboard
 
-https://akinator-game-blush.vercel.app/ [Due to cors error now its not interacting with backend]
+https://iris-dashboard-neon.vercel.app/ [Due to cors error now its not interacting with backend]
 
 # My GitHub Repos
 
